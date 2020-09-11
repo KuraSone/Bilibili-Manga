@@ -31,3 +31,4 @@
 4. 使用 Cron 每日执行 `python3 manga_sign.py`
 
 设置好账号密码后，编辑README.md文件， 随意填写一个字符然后提交即可。
+字符
